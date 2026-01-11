@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.projectKey>maven-web-application</sonar.projectKey>
-        <sonar.projectName>maven-web-application</sonar.projectName>
+		<sonar.host.url>http://13.221.77.188:9000/</sonar.host.url>
+		<sonar.login>squ_2a298341d2e91de323eee652bf4c621c12192c2d</sonar.login> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
