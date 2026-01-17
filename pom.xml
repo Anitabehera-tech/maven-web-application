@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3172.31.18.225:8081/repository/Metlife-snapshot/</url>
+	      <url>http://172.31.18.225:8081/repository/Metlife-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
